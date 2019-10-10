@@ -1,0 +1,51 @@
+@font-face {
+    font-family: "Bellota-Bold";
+    src: url("../fonts/bellota/Bellota-Light.otf");
+}
+
+@font-face {
+    font-family: "Bellota-Light";
+    src: url("../fonts/bellota/Bellota-Light.otf");
+}
+
+h1 {
+    font-family: "Bellota-Bold";
+    color: #303030;
+    font-weight: bold;
+    ;
+}
+
+
+body {
+    font-family: "Bellota-Light";
+    background-color: #FFF;
+    color: #303030;
+    ;
+}
+
+label {
+    font-weight: bold;
+    color: #303030;
+}
+
+.hackers-poulette-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.btn {
+    background-color: #15c5bd;
+    font-weight: bold;
+    float: right;
+
+}
+
+.inline {
+    display: block;
+}
