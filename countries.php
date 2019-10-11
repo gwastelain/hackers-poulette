@@ -248,7 +248,7 @@
 <?php ksort($countries); ?>
 
 <select name="countries" value="" required>
-    <option value="default country" disabled alt>Select your country</option>
+    <option value="default country" alt="default country" disabled>Select your country</option>
     <?php
             foreach($countries as $key => $value) {
             ?>
